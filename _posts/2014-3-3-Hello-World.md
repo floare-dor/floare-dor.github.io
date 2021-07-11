@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Init00
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## INIT 00
+### Being here, in the moment.Living.
+### The little droplets from the skies, coming all the way down to moisten the pots in my balcony. Can't stress how much I'm enjoying the sound they make when they collide.Random yet peaceful, the waves. The scent of the simply fresh air, paired with the mist of the evening.I'm in love, I think. Beautiful and calm to exist with.Soothing my arms, the flow of the cool breeze as I'm putting my thoughts down on a paper. (A rather unusual thing to me : )). The birds chirping with freedom, flying through the warm shade of the evening. I think.. I'm in love again, with being alone with the Mother. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### Just being in the moment, breathing. This is quite underrated.Nevertheless, i just feel ecstatic that I took some time out of the day to cherish the moment and be grateful for life on Earth : ).
+ps:I just thought it'd be pleasing to write down my thoughts for myself : )
